@@ -1,6 +1,18 @@
 
 ![Screenshot](https://github.com/MSkall/Models/blob/master/Maya/Car/murcI_persp_view.jpg)
 
-![Screenshot_2017-12-10_16.46.38.png](https://github.com/MSkall/UnityGames/blob/master/Sandbox/Screenshot%202017-12-10%2016.46.38.png)
+![Screenshot](https://github.com/MSkall/Models/blob/master/Maya/Car/murci_back_view.jpg)
 
-![Screenshot_2017-12-10_16.45.45.png](https://github.com/MSkall/UnityGames/blob/master/Sandbox/Screenshot%202017-12-10%2016.45.45.png?raw=true)
+![Screenshot](https://github.com/MSkall/Models/blob/master/Maya/Car/murci_front_view.jpg)
+
+![Screenshot](https://github.com/MSkall/Models/blob/master/Maya/Car/murci_persp_back_view.jpg)
+
+![Screenshot](https://github.com/MSkall/Models/blob/master/Maya/Car/murci_side_view.jpg)
+
+![Screenshot](https://github.com/MSkall/Models/blob/master/Maya/Car/murci_top_view.jpg)
+
+![Screenshot](https://github.com/MSkall/Models/blob/master/Maya/Car/murcielago_scene1.jpg)
+
+![Screenshot](https://github.com/MSkall/Models/blob/master/Maya/Car/UV_snapshot5.jpg)
+
+![Screenshot](https://github.com/MSkall/Models/blob/master/Maya/Car/murcielago_texture.jpg)
