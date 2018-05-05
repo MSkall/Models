@@ -1,8 +1,12 @@
-Lamborghini Murcielago model 2004-2007
+<p>
+Lamborghini Murcielago 
 
-White paint job
+Model Year: 2004-2007
+
+Paint Job: White
 
 Low Poly 3D Model
+</p>
 
 <p align="center"> 
   <img src="https://github.com/MSkall/Models/blob/master/Maya/Car/murcI_persp_view.jpg">
