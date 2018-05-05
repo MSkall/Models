@@ -2,7 +2,9 @@
 
 <p>
 Model Year: 2004-2007
+
 Paint Job: white
+
 Low Poly 3D Model
 </p>
 
