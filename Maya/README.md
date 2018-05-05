@@ -1,4 +1,4 @@
-# My models made with Maya 2016
+# Models From CSCI 281 Using Maya 2016
 
 Contents of folders:
 - "Phantasm_Ball" : 3D model of phantasm ball
