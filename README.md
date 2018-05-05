@@ -1,3 +1,3 @@
 # Models
 
-A collection of models I am working on.
+A collection of modeling projects I am working on.
