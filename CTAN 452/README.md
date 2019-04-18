@@ -4,10 +4,14 @@ Project 1 - Landscape project: https://youtu.be/cbDSelCpA4s
 
 Project 2 - Walk Cycle 1: https://youtu.be/bwO4y_bKKak Walk Cycle 2: https://youtu.be/UVqulQ1UU8k
 
+![walkcycle1.PNG](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/walkcycle1.PNG)
+
+![walkcycle2.PNG](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/walkcycle2.PNG)
+
 Project 3 - Rube Goldberg Machine: https://youtu.be/Wumg3QdzMsc
 
 Final Project - model of my house from my hometown Ross, CA: https://youtu.be/MBrEDMHi_n4
 
-![house2.PNG](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/house2.PNG)
-
 ![house1.PNG](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/house1.PNG)
+
+![house2.PNG](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/house2.PNG)
