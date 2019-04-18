@@ -13,6 +13,7 @@ Androgynous model 2:
 ![andro2zoomed.PNG](https://github.com/MSkall/Models/blob/master/CTIN%20484/Pictures/andro2zoomed.PNG)
 
 Masquerade masks -- Mask type 1, 2, 3, and 4
-
-Objects -- Dance hall and surrounding buildings
-
+![mask1.PNG](https://github.com/MSkall/Models/blob/master/CTIN%20484/Pictures/mask1.PNG)
+![mask2.PNG](https://github.com/MSkall/Models/blob/master/CTIN%20484/Pictures/mask2.PNG)
+![mask3.PNG](https://github.com/MSkall/Models/blob/master/CTIN%20484/Pictures/mask3.PNG)
+![mask4.PNG](https://github.com/MSkall/Models/blob/master/CTIN%20484/Pictures/mask4.PNG)
