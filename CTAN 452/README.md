@@ -1,4 +1,4 @@
-# Models From CTAN 452 Using Maya 2018
+# Models and Animations From CTAN 452 Using Maya 2018
 
 Project 1 - Landscape project: https://youtu.be/cbDSelCpA4s
 
