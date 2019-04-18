@@ -7,3 +7,7 @@ Project 2 - Walk Cycle 1: https://youtu.be/bwO4y_bKKak Walk Cycle 2: https://you
 Project 3 - Rube Goldberg Machine: https://youtu.be/Wumg3QdzMsc
 
 Final Project - model of my house from my hometown Ross, CA: https://youtu.be/MBrEDMHi_n4
+
+![house2.PNG](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/house2.PNG)
+
+![house1.PNG](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/house1.PNG)
