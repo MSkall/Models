@@ -2,7 +2,7 @@
 
 Project 1 - Landscape project: https://youtu.be/cbDSelCpA4s
 
-Project 2 - Walk Cycles: 
+Project 2 - Walk Cycle 1: https://youtu.be/bwO4y_bKKak Walk Cycle 2: https://youtu.be/UVqulQ1UU8k
 
 Project 3 - Rube Goldberg Machine: https://youtu.be/Wumg3QdzMsc
 
