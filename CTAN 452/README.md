@@ -6,6 +6,8 @@ Project 2 - Walk Cycle 1: https://youtu.be/bwO4y_bKKak Walk Cycle 2: https://you
 
 Project 3 - Rube Goldberg Machine: https://youtu.be/Wumg3QdzMsc
 
+Final Project - model of my house from my hometown: https://youtu.be/MBrEDMHi_n4
+
 Project 1:
 
 ![landscape_v14.0038.png](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/landscape_v14.0038.png)
