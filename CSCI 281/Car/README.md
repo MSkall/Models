@@ -10,7 +10,6 @@ Low Poly 3D Model
 
 <p align="center">
   <img src="https://github.com/MSkall/Models/blob/master/CSCI%20281/Car/Pictures/four_window_view.jpg">
-  <img src="https://github.com/MSkall/Models/blob/master/CSCI%20281/Car/Pictures/murcielago_scene1.jpg">
   <img src="https://github.com/MSkall/Models/blob/master/CSCI%20281/Car/Pictures/murcI_persp_view.jpg">
   <img src="https://github.com/MSkall/Models/blob/master/CSCI%20281/Car/Pictures/murci_back_view.jpg">
   <img src="https://github.com/MSkall/Models/blob/master/CSCI%20281/Car/Pictures/murci_front_view.jpg">
