@@ -8,21 +8,21 @@ Project 3 - Rube Goldberg Machine: https://youtu.be/Wumg3QdzMsc
 
 Final Project - model of my house from my hometown: https://youtu.be/MBrEDMHi_n4
 
-Project 1:
+**Project 1:**
 
 ![landscape_v14.0038.png](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/landscape_v14.0038.png)
 
-Project 2:
+**Project 2:**
 
 ![walkcycle1.PNG](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/walkcycle1.PNG)
 
 ![walkcycle2.PNG](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/walkcycle2.PNG)
 
-Project 3:
+**Project 3:**
 
 ![rubemachine_27_sky.0073.png](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/rubemachine_27_sky.0073.png)
 
-Final Project:
+**Final Project:**
 
 ![house1.PNG](https://github.com/MSkall/Models/blob/master/CTAN%20452/Pictures/house1.PNG)
 
